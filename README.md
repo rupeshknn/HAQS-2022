@@ -1,5 +1,10 @@
 # HAQS-2022
 
+We (Team Qualition) hit 1st place on the VQC challenge and 2nd in the overall QML challenge! :tada:
+![image](https://user-images.githubusercontent.com/33568503/200261318-55f48658-b7f7-4565-bd2d-2ea93d8999ea.png)
+
+
+
 <a href="https://qbraid.com/">
     <img src="https://qbraid-static.s3.amazonaws.com/logos/qbraid.png"
          alt="qbraid logo"
